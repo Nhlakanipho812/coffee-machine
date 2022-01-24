@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>inQuba.console</id>
+    <version>1.0.0</version>
+    <authors>inQuba.console</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="inQuba.service" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\n.buthelezi\source\repos\inQuba.console\inQuba.console\bin\Debug\net5.0\inQuba.console.runtimeconfig.json" target="lib\net5.0\inQuba.console.runtimeconfig.json" />
+    <file src="C:\Users\n.buthelezi\source\repos\inQuba.console\inQuba.console\bin\Debug\net5.0\inQuba.console.dll" target="lib\net5.0\inQuba.console.dll" />
+  </files>
+</package>
